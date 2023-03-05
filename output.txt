@@ -1,0 +1,75 @@
+using cuda
+
+Epoch 1
+-- -- -- -- --
+Current loss: 2.3093349933624268, Progress: [64/60000]
+Current loss: 2.3050198554992676, Progress: [6464/60000]
+Current loss: 2.298891067504883, Progress: [12864/60000]
+Current loss: 2.2934815883636475, Progress: [19264/60000]
+Current loss: 2.294118881225586, Progress: [25664/60000]
+Current loss: 2.291372776031494, Progress: [32064/60000]
+Current loss: 2.269401788711548, Progress: [38464/60000]
+Current loss: 2.279163122177124, Progress: [44864/60000]
+Current loss: 2.264791965484619, Progress: [51264/60000]
+Current loss: 2.2657811641693115, Progress: [57664/60000]
+Avg Test Loss: 2.2607420356410324, Accuracy: 40.99
+
+Epoch 2
+-- -- -- -- --
+Current loss: 2.276859998703003, Progress: [64/60000]
+Current loss: 2.264573335647583, Progress: [6464/60000]
+Current loss: 2.252077102661133, Progress: [12864/60000]
+Current loss: 2.228639602661133, Progress: [19264/60000]
+Current loss: 2.228116989135742, Progress: [25664/60000]
+Current loss: 2.228869915008545, Progress: [32064/60000]
+Current loss: 2.2002782821655273, Progress: [38464/60000]
+Current loss: 2.1855180263519287, Progress: [44864/60000]
+Current loss: 2.1988072395324707, Progress: [51264/60000]
+Current loss: 2.1540300846099854, Progress: [57664/60000]
+Avg Test Loss: 2.150059010572494, Accuracy: 63.22
+
+...
+
+Epoch 24
+-- -- -- -- --
+Current loss: 0.2028087079524994, Progress: [64/60000]
+Current loss: 0.14489750564098358, Progress: [6464/60000]
+Current loss: 0.18543973565101624, Progress: [12864/60000]
+Current loss: 0.06420683860778809, Progress: [19264/60000]
+Current loss: 0.21260832250118256, Progress: [25664/60000]
+Current loss: 0.17592808604240417, Progress: [32064/60000]
+Current loss: 0.0858476534485817, Progress: [38464/60000]
+Current loss: 0.13148172199726105, Progress: [44864/60000]
+Current loss: 0.29897499084472656, Progress: [51264/60000]
+Current loss: 0.12237348407506943, Progress: [57664/60000]
+Avg Test Loss: 0.14230603072199094, Accuracy: 95.71
+
+Epoch 25
+-- -- -- -- --
+Current loss: 0.1549558937549591, Progress: [64/60000]
+Current loss: 0.12960772216320038, Progress: [6464/60000]
+Current loss: 0.17931759357452393, Progress: [12864/60000]
+Current loss: 0.28176984190940857, Progress: [19264/60000]
+Current loss: 0.2293069064617157, Progress: [25664/60000]
+Current loss: 0.04183841496706009, Progress: [32064/60000]
+Current loss: 0.12819641828536987, Progress: [38464/60000]
+Current loss: 0.055623020976781845, Progress: [44864/60000]
+Current loss: 0.09309187531471252, Progress: [51264/60000]
+Current loss: 0.06944947689771652, Progress: [57664/60000]
+Avg Test Loss: 0.13731867512747362, Accuracy: 96.04
+
+Model 1 trained succesfully
+
+Epoch 1
+-- -- -- -- --
+Loss:0.0912623405456543
+
+...
+
+Epoch 10
+-- -- -- -- --
+Loss:0.06501539796590805
+
+Model 2 trained succesfully
+
+Avg Test Loss In Cross-Model Test: 0.1368448138592919, Accuracy: 96.03
